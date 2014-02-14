@@ -6,10 +6,10 @@
 
 	<title>Nibbleblog</title>
 
-	<link rel="stylesheet" type="text/css" href="<?php echo HTML_PATH_ADMIN_TEMPLATES.'note-2/css/style.css?v='.NIBBLEBLOG_BUILD ?>" >
-	<link rel="stylesheet" type="text/css" href="<?php echo HTML_PATH_ADMIN_TEMPLATES.'note-2/css/nb_media.css?v='.NIBBLEBLOG_BUILD ?>" >
-	<link rel="stylesheet" type="text/css" href="<?php echo HTML_PATH_ADMIN_TEMPLATES.'note-2/css/nb_code.css?v='.NIBBLEBLOG_BUILD ?>" >
-	<link rel="stylesheet" type="text/css" href="<?php echo HTML_PATH_ADMIN_TEMPLATES.'note-2/css/icons/style.css?v='.NIBBLEBLOG_BUILD ?>" >
+	<link rel="stylesheet" type="text/css" href="<?php echo HTML_PATH_ADMIN_TEMPLATES.'note-2-admin/css/style.css?v='.NIBBLEBLOG_BUILD ?>" >
+	<link rel="stylesheet" type="text/css" href="<?php echo HTML_PATH_ADMIN_TEMPLATES.'note-2-admin/css/nb_media.css?v='.NIBBLEBLOG_BUILD ?>" >
+	<link rel="stylesheet" type="text/css" href="<?php echo HTML_PATH_ADMIN_TEMPLATES.'note-2-admin/css/nb_code.css?v='.NIBBLEBLOG_BUILD ?>" >
+	<link rel="stylesheet" type="text/css" href="<?php echo HTML_PATH_ADMIN_TEMPLATES.'note-2-admin/css/icons/style.css?v='.NIBBLEBLOG_BUILD ?>" >
 
 	<!-- Javascript -->
 	<script charset="utf-8" src="<?php echo JS_JQUERY.'?v='.NIBBLEBLOG_BUILD ?>"></script>
@@ -18,7 +18,7 @@
 	<script charset="utf-8" src="<?php echo HTML_PATH_ADMIN_JS.'reveal/jquery.reveal.js?v='.NIBBLEBLOG_BUILD ?>"></script>
 
 	<!-- FAVICON -->
-	<link rel="shortcut icon" href="<?php echo HTML_PATH_ADMIN_TEMPLATES.'note-2/css/img/favicon.ico' ?>" type="image/x-icon" >
+	<link rel="shortcut icon" href="<?php echo HTML_PATH_ADMIN_TEMPLATES.'note-2-admin/css/img/favicon.ico' ?>" type="image/x-icon" >
 
 	<!-- Plugin -->
 	<?php
